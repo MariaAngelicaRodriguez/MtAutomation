@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="All Features">
+    <listeners>
+        <listener class-name="org.funjala.automation.web.common.listener.ExecutionListener" />
+    </listeners>
+    <test name="Login on Pivotal and Tasks">
+        <classes>
+            <class name="org.funjala.automation.web.pivotal.Runner"></class>
+        </classes>
+    </test>
+</suite>

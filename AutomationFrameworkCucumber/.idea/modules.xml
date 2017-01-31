@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutomationFrameworkCucumber.iml" filepath="$PROJECT_DIR$/AutomationFrameworkCucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mach2/mach2.iml" filepath="$PROJECT_DIR$/mach2/mach2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pages/pages.iml" filepath="$PROJECT_DIR$/pages/pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pivotaltracker/pivotaltracker.iml" filepath="$PROJECT_DIR$/pivotaltracker/pivotaltracker.iml" />
+    </modules>
+  </component>
+</project>

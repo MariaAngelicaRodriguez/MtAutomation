@@ -1,0 +1,4 @@
+org\funjala\automation\web\pivotal\hooks\Hooks.class
+org\funjala\automation\web\pivotal\Runner.class
+org\funjala\automation\web\pivotal\steps\login\loginStepDefinitions.class
+org\funjala\automation\web\pivotal\steps\task\TaskSteps.class

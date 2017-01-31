@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common" />
+        <module name="mach2" />
+        <module name="model" />
+        <module name="pages" />
+        <module name="pivotaltracker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AutomationFrameworkCucumber" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="mach2" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="pages" target="1.8" />
+      <module name="pivotaltracker" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
